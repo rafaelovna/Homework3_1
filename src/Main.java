@@ -19,7 +19,7 @@ public class Main {
         }
 
         System.out.println("Задание 3");
-        int carCapacity = 103;
+        int carCapacity = 104;
         if (carCapacity <= 60){
             System.out.println("В вагоне есть сидячие места");
         }else if (carCapacity <= 102){
